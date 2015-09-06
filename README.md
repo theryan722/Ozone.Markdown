@@ -8,7 +8,7 @@ Currently the project is a library that you use in your .Net applications. In th
 I noticed that there were few options for converting Markdown into Html in the .Net framework, as well as in general. I found a library that made this task simple to do, however it was written in java. That is where my .Net wrapper came into play.
 
 ###How to use
-Make reference to **Ozone.Markdown** in your project.
+Make a reference to **Ozone.Markdown** in your project.
 
 To convert Markdown to Html, use the function:
 
@@ -18,7 +18,18 @@ Ozone.Markdown.Parser.ParseMarkdown(markdown)
 
 Where *markdown* is a string of Markdown text. The function returns a string, which is the converted Html.
 
-And you're done! As simple as it gets.
+Make sure in the Debug folder of your application, you have all of Ozone.Markdown's required libraries as well (there are 3 of them).
+
+###Binaries and dependencies
+You can download the library and its dependencies from the [releases](https://github.com/theryan722/Ozone.Markdown/releases/) page.
+
+Ozone.Markdown has three dependencies:
+
+* IKVM.OpenJDK.Core.dll
+* IKVM.Runtime.dll
+* txtmark.dll
+ 
+These are required in order for Ozone to work.
 
 ###License
   Copyright 2015 Ryan O'Day
