@@ -1,6 +1,6 @@
 # Ozone.Markdown
 ![License](https://img.shields.io/badge/license-Apache-blue.svg)
-![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)
+![Release](https://img.shields.io/badge/release-v1.0.1-blue.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
 ![Current Release](https://img.shields.io/badge/current%20release-Stable-brightgreen.svg)
 ![Current Build](https://img.shields.io/badge/current%20build-Stable-brightgreen.svg)
