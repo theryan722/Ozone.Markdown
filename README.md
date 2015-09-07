@@ -1,4 +1,10 @@
 # Ozone.Markdown
+![License](https://img.shields.io/badge/license-Apache-blue.svg)
+![Release](https://img.shields.io/badge/release-v1.0.0-blue.svg)
+![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
+![Current Release](https://img.shields.io/badge/current%20release-Stable-brightgreen.svg)
+![Current Build](https://img.shields.io/badge/current%20build-Stable-brightgreen.svg)
+
 This library is a .Net wrapper for the [Txtmark](https://github.com/rjeschke/txtmark) markdown processor. It aims to be simple and quick to use.
 
 ###Projects Aims
