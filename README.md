@@ -1,6 +1,4 @@
 # Ozone.Markdown
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg)](https://github.com/theryan722/Ozone.Markdown)
-[![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/1.0.0.svg)](https://github.com/theryan722/Ozone.Markdown)
 This library is a .Net wrapper for the [Txtmark](https://github.com/rjeschke/txtmark) markdown processor. It aims to be simple and quick to use.
 
 ###Projects Aims
