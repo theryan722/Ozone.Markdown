@@ -7,13 +7,13 @@
 
 This library is a .Net wrapper for the [Txtmark](https://github.com/rjeschke/txtmark) markdown processor. It aims to be simple and quick to use.
 
-###Projects Aims
+### Projects Aims
 Currently the project is a library that you use in your .Net applications. In the future I hope to add a **console application** version so that anyone can use the library to convert Markdown to Html.
 
-###Background
+### Background
 I noticed that there were few options for converting Markdown into Html in the .Net framework, as well as in general. I found a library that made this task simple to do, however it was written in java. That is where my .Net wrapper came into play.
 
-###How to use
+### How to use
 Make a reference to **Ozone.Markdown** in your project.
 
 To convert Markdown to Html, use the function:
@@ -26,7 +26,7 @@ Where *markdown* is a string of Markdown text. The function returns a string, wh
 
 Make sure in the Debug folder of your application, you have all of Ozone.Markdown's required libraries as well (there are 3 of them).
 
-###Binaries and dependencies
+### Binaries and dependencies
 You can download the library and its dependencies from the [releases](https://github.com/theryan722/Ozone.Markdown/releases/) page.
 
 Ozone.Markdown has three dependencies:
@@ -37,7 +37,7 @@ Ozone.Markdown has three dependencies:
  
 These are required in order for Ozone to work.
 
-###License
+### License
 Copyright 2015 Ryan O'Day
 
 Licensed under the Apache License, Version 2.0 (the "License");
